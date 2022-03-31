@@ -21,7 +21,7 @@ const projects = [
 ]
 
 const skills = [
-    "C++", "HTML/CSS", "JavaScript", "Node.js", "React js", "Express", "MongoDB", "Java"
+    "C++", "HTML", "CSS", "JavaScript", "Node.js", "React js", "Express", "MongoDB"
 ]
 
 export {projects, skills};
